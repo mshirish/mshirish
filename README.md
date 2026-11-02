@@ -14,14 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Cloud & DevOps engineer finishing my **MS in Computer Science at Clark University** (Dec 2026), with 2+ years of industry experience shipping and running software on AWS.
-
-- ☁️ **AWS Certified Solutions Architect – Associate**
-- 🚀 Containerized 6 .NET Core services and deployed them to **Amazon EKS via GitHub Actions**, cutting deployments from ~1 hour to ~15 minutes
-- 📈 Configured Kubernetes resource limits and **horizontal pod autoscaling** to handle 2x peak-hour traffic, with CloudWatch alarms on CPU and pod restarts
-- 🛠️ Built .NET REST APIs and a biometric verification system for a bank at AMNIL Technologies
-- 🏆 2nd of 15 teams at the **Clark IEEE Hackathon 2026**
-- 🔭 **Open to full-time Cloud/DevOps roles and internships**
+I'm a Cloud & DevOps engineer and **AWS Certified Solutions Architect – Associate**, finishing my **MS in Computer Science at Clark University** (Dec 2026). I enjoy building, automating, and scaling applications on AWS with Kubernetes, Terraform, and CI/CD, and I'm currently **open to full-time Cloud/DevOps roles and internships**.
 
 ---
 
